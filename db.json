@@ -113,5 +113,32 @@
       ],
       "circle_id": 1
     }
+  ],
+
+  "comment": [
+    {
+      "circleUserId": 1,
+      "comment": "izin nyimak om",
+      "commentGiff": null,
+      "commentImage": null,
+      "commentSticker": null,
+      "userAvatar": 9
+    },
+    {
+      "circleUserId": 1,
+      "comment": "izin nyimak om",
+      "commentGiff": null,
+      "commentImage": null,
+      "commentSticker": null,
+      "userAvatar": 10
+    },
+    {
+      "circleUserId": 1,
+      "comment": "izin nyimak om",
+      "commentGiff": null,
+      "commentImage": null,
+      "commentSticker": null,
+      "userAvatar": 11
+    }
   ]
 }
