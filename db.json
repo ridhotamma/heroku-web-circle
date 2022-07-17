@@ -6,7 +6,12 @@
       "banner": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTDPbU5LOCdpme0h33xebF1aoHoTyQOw_DZbBZsK_FeWk66IEoEHa61kK0N6ulQJDko",
       "description": "this is Second descriptions",
       "vote": 250,
-      "hashtags": ["seeds", "hashtags", "hashtags2", "hashtags3"],
+      "hashtags": [
+        "seeds",
+        "hashtags",
+        "hashtags2",
+        "hashtags3"
+      ],
       "visibility": "public",
       "createdAt": "2022-06-29T06:32:52.331",
       "updatedAt": "2022-06-29T06:32:52.331",
@@ -21,12 +26,14 @@
       "id": 1
     },
     {
-      "name": "Circle Bagas",
-      "profile": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1657474869/rcudbpzfccvk7ghc55ij.jpg",
-      "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1657474869/rcudbpzfccvk7ghc55ij.jpg",
-      "description": "The president however, made it clear that Guyana is not hooked on any ideological or superior partner, but on those that can give the country the best possible outcomes.",
+      "name": "New Circle",
+      "profile": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658053949/x3nptmxk2qosoggzbhik.jpg",
+      "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658053949/x3nptmxk2qosoggzbhik.jpg",
+      "description": "lorem ipsum doler amet",
       "vote": 0,
-      "hashtags": [null],
+      "hashtags": [
+        "asdfasdfasdfasdf"
+      ],
       "visibility": "public",
       "contributors": [
         {
@@ -39,12 +46,14 @@
       "id": 2
     },
     {
-      "name": "Circle 123",
-      "profile": null,
-      "banner": null,
-      "description": "The president however, made it clear that Guyana is not hooked on any ideological or superior partner, but on those that can give the country the best possible outcomes.\nThe president however, made it clear that Guyana is not hooked on any ideological or superior partner, but on those that can give the country the best possible outcomes.\nThe president however, made it clear that Guyana is not hooked on any ideological or superior partner, but on those that can give the country the best possible outcomes.",
+      "name": "test123",
+      "profile": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054014/gd6bbrn4slos79wp60jn.jpg",
+      "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054014/gd6bbrn4slos79wp60jn.jpg",
+      "description": "asdfasdfasdf",
       "vote": 0,
-      "hashtags": ["crazy", "rich", "2022"],
+      "hashtags": [
+        "asdfasdfasdf"
+      ],
       "visibility": "public",
       "contributors": [
         {
@@ -57,10 +66,14 @@
       "id": 3
     },
     {
-      "profile": null,
-      "banner": null,
+      "name": "Circle nya ryan",
+      "profile": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054077/uhjmgm7besejdg4vcx3h.jpg",
+      "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054077/uhjmgm7besejdg4vcx3h.jpg",
+      "description": "asdfasdf",
       "vote": 0,
-      "hashtags": [null],
+      "hashtags": [
+        "asdfasdfasdfasdf"
+      ],
       "visibility": "public",
       "contributors": [
         {
@@ -71,6 +84,28 @@
       ],
       "ownerId": 1,
       "id": 4
+    },
+    {
+      "name": "circle bagas",
+      "profile": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054090/zgzrzlefnis5wru2ocwe.jpg",
+      "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054090/zgzrzlefnis5wru2ocwe.jpg",
+      "description": "asdfasdfasdf asfadfsadf",
+      "vote": 0,
+      "hashtags": [
+        "asdfasdfsadf",
+        "asfasdfasdf",
+        "adfasdfasdf"
+      ],
+      "visibility": "public",
+      "contributors": [
+        {
+          "id": 1,
+          "avatar": "AVATARV2_20",
+          "isAcepted": true
+        }
+      ],
+      "ownerId": 1,
+      "id": 5
     }
   ],
   "profile": [
@@ -78,42 +113,116 @@
       "id": 1,
       "name": "Ridho Tamma",
       "seedsTag": "@ridhotamma",
-      "phoneNumber": "6285159947805",
+      "phoneNumber": "+6285159947805",
       "avatar": "1"
     }
   ],
   "posts": [
     {
-      "id": 1,
       "content": "lorem ipsum doler amet",
       "images": [
-        "https://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1642621741344-cddaecdafda2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
       ],
-      "circle_id": 1
+      "vote": 1,
+      "circle_id": 1,
+      "id": 1
     },
     {
       "id": 2,
+      "author": "My name is Jason",
       "content": "Test posting 123",
       "images": [
-        "https://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1642621741344-cddaecdafda2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
+        "https://images.unsplash.com/photo-1642621741344-cddaecdafda2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
       ],
-      "circle_id": 1
+      "circle_id": 1,
+      "vote": 1
+    },
+    {
+      "content": "test post in new circle",
+      "images": [],
+      "vote": 1,
+      "circle_id": "2",
+      "id": 3
+    },
+    {
+      "content": "test lagi 123",
+      "images": [],
+      "circle_id": "2",
+      "vote": 0,
+      "id": 4
+    },
+    {
+      "content": "test post again",
+      "images": [],
+      "circle_id": "2",
+      "vote": 0,
+      "id": 5
+    },
+    {
+      "content": "lorem ipsum doler amet",
+      "images": [],
+      "circle_id": "3",
+      "vote": 0,
+      "id": 6
+    },
+    {
+      "content": "tips investasi saat market crash",
+      "images": [],
+      "circle_id": "3",
+      "vote": 0,
+      "id": 7
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "post_id": 1,
+      "author": "My name is Jason",
+      "comment": "bagus banget..!",
+      "avatar": 4
+    },
+    {
+      "id": 2,
+      "post_id": 1,
+      "author": "Ryan ahmad",
+      "comment": "baru kali ini dapet pencerahan",
+      "avatar": 4
     },
     {
       "id": 3,
-      "content": "Hello world",
-      "images": [
-        "https://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1642621741344-cddaecdafda2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
-      ],
-      "circle_id": 1
+      "post_id": 1,
+      "author": "Bagas Pasopati",
+      "comment": "nyesel nggak invest crypto"
+    },
+    {
+      "post_id": 1,
+      "author": "ridhotamma",
+      "comment": "wahh bagus yaa",
+      "avatar": "16",
+      "id": 4
+    },
+    {
+      "post_id": 2,
+      "author": "ridhotamma",
+      "comment": "asdf jkl;",
+      "avatar": "16",
+      "id": 5
+    },
+    {
+      "post_id": 2,
+      "author": "ridhotamma",
+      "comment": "kontennya lumayan sih",
+      "avatar": "16",
+      "id": 6
     }
   ],
-
-  "comment": []
+  "child_comment": [
+    {
+      "parent_id": 1,
+      "id": 3,
+      "post_id": 1,
+      "author": "Bagas Pasopati",
+      "comment": "Iya bener bang!"
+    }
+  ]
 }
