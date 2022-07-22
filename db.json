@@ -104,6 +104,7 @@
   ],
   "posts": [
     {
+      "author": "My name is Jason",
       "content": "lorem ipsum doler amet",
       "images": [
         "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
@@ -123,6 +124,7 @@
       "vote": 1
     },
     {
+      "author": "My name is Jason",
       "content": "test post in new circle",
       "images": [],
       "vote": 1,
@@ -130,6 +132,7 @@
       "id": 3
     },
     {
+      "author": "My name is Jason",
       "content": "test lagi 123",
       "images": [],
       "circle_id": "2",
@@ -137,6 +140,7 @@
       "id": 4
     },
     {
+      "author": "My name is Jason",
       "content": "test post again",
       "images": [],
       "circle_id": "2",
@@ -144,6 +148,7 @@
       "id": 5
     },
     {
+      "author": "My name is Jason",
       "content": "lorem ipsum doler amet",
       "images": [],
       "circle_id": "3",
@@ -151,6 +156,7 @@
       "id": 6
     },
     {
+      "author": "My name is Jason",
       "content": "tips investasi saat market crash",
       "images": [],
       "circle_id": "3",
