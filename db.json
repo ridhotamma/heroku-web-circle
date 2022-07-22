@@ -6,12 +6,7 @@
       "banner": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "description": "this is Second descriptions",
       "vote": 250,
-      "hashtags": [
-        "seeds",
-        "hashtags",
-        "hashtags2",
-        "hashtags3"
-      ],
+      "hashtags": ["seeds", "hashtags", "hashtags2", "hashtags3"],
       "visibility": "public",
       "createdAt": "2022-06-29T06:32:52.331",
       "updatedAt": "2022-06-29T06:32:52.331",
@@ -31,9 +26,7 @@
       "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658053949/x3nptmxk2qosoggzbhik.jpg",
       "description": "lorem ipsum doler amet",
       "vote": 0,
-      "hashtags": [
-        "asdfasdfasdfasdf"
-      ],
+      "hashtags": ["asdfasdfasdfasdf"],
       "visibility": "public",
       "contributors": [
         {
@@ -51,9 +44,7 @@
       "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054014/gd6bbrn4slos79wp60jn.jpg",
       "description": "asdfasdfasdf",
       "vote": 0,
-      "hashtags": [
-        "asdfasdfasdf"
-      ],
+      "hashtags": ["asdfasdfasdf"],
       "visibility": "public",
       "contributors": [
         {
@@ -71,9 +62,7 @@
       "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054077/uhjmgm7besejdg4vcx3h.jpg",
       "description": "asdfasdf",
       "vote": 0,
-      "hashtags": [
-        "asdfasdfasdfasdf"
-      ],
+      "hashtags": ["asdfasdfasdfasdf"],
       "visibility": "public",
       "contributors": [
         {
@@ -91,11 +80,7 @@
       "banner": "https://res.cloudinary.com/dc8pqkb5q/image/upload/v1658054090/zgzrzlefnis5wru2ocwe.jpg",
       "description": "asdfasdfasdf asfadfsadf",
       "vote": 0,
-      "hashtags": [
-        "asdfasdfsadf",
-        "asfasdfasdf",
-        "adfasdfasdf"
-      ],
+      "hashtags": ["asdfasdfsadf", "asfasdfasdf", "adfasdfasdf"],
       "visibility": "public",
       "contributors": [
         {
@@ -223,6 +208,16 @@
       "post_id": 1,
       "author": "Bagas Pasopati",
       "comment": "Iya bener bang!"
+    }
+  ],
+  "joined_circle": [
+    {
+      "user_id": 1,
+      "joined_circle": [1, 2]
+    },
+    {
+      "user_id": 2,
+      "joined_circle": [1, 3]
     }
   ]
 }
